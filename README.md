@@ -1,6 +1,6 @@
 # **Lista Duplamente Encadeada em Java**
 
-Este repositório contém a implementação de uma **lista duplamente encadeada** em Java, que suporta operações como inserção, remoção, pesquisa, atualização e percorrimento em ambas as direções. O projeto é composto pelas seguintes classes:
+Este repositório contém a implementação de uma **lista duplamente encadeada** em Java, que suporta operações como inserção, remoção, pesquisa, atualização e percorrimento em ambas as direções.
 
 ---
 
