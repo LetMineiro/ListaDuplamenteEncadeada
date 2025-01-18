@@ -15,13 +15,13 @@ Este repositório contém a implementação de uma **lista duplamente encadeada*
 
 1. Clone este repositório ou copie os arquivos `ListaDuplamenteEncadeada.java`, `No.java` e `MainDuplamenteEncadeada.java` para o mesmo diretório.
 2. Certifique-se de que os arquivos estão dentro de um diretório com a seguinte estrutura:
-´´´´
+````
 duplamenteEncadeada/
     No.java
     ListaDuplamenteEncadeada.java
     MainDuplamenteEncadeada.java
-´´´´
-3. **Abra o diretório no VS Code:**
+````
+4. **Abra o diretório no VS Code:**
  * Clique em File > Open Folder (ou Arquivo > Abrir Pasta).
  * Selecione o diretório que contém a pasta duplamente encadeada.
 4. Abra o arquivo MainDuplamenteEncadeada.java no editor.
